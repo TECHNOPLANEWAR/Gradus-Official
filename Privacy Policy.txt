@@ -1,0 +1,22 @@
+Privacy Policy
+The Gradus app is provided as a free service by the Gradus team and is intended for use as is. This Privacy Policy is designed to inform users about the collection, use, and disclosure of personal information related to the usage of the Gradus app. By choosing to use Gradus, you agree to the terms outlined in this policy. The terminology used in this Privacy Policy aligns with the definitions provided in the Terms and Conditions, also available on the website and in the Gradus app.
+
+Information Collection and Use
+In order to utilize the features of the Gradus app, students are required to provide their gradebook system login credentials. This information, along with any other data displayed in the app, is stored solely on your device and is neither collected nor accessible by the Gradus team. The app utilizes the credentials provided to retrieve and display information directly from your gradebook system server, ensuring that the Gradus team has no access to the data accessed through the app.
+
+Log Data
+During app usage, if a crash occurs, log data from your device will be sent to the Play Store or App Store servers. This Log Data may include details such as device name, operating system version, usage timestamp, and other non-sensitive statistics.
+
+Security
+As all personal information accessed through Gradus is facilitated by your school district's HAC servers, the security of this app is equivalent to that of your HAC website.
+
+Links to Other Sites
+The Gradus app may contain links to external sites. Clicking on a third-party link will redirect you to that site. Please note that only sites under the domain of [insert domain name] are operated by the Gradus team. Accessing third-party sites through the app implies no control or responsibility on our part for the content, privacy policies, or practices of those sites or their services.
+
+Changes to Privacy Policy
+This Privacy Policy is subject to periodic updates. Users will be notified of any changes through the posting of the revised policy on this page. It is recommended that users review this page periodically for any updates.
+
+This policy is effective as of May 5th, 2024.
+
+Contact the Gradus Team
+For any questions or suggestions regarding this Privacy Policy, please feel free to contact the Gradus team at gradus.feedback@gmail.com.
